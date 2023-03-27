@@ -13,4 +13,6 @@ Olá! Meu nome é Thiane Milena e sou uma estudante de Análise e Desenvolviment
  - E-mail: milenathiane7@gmail.com
  - Linkedin: https://www.linkedin.com/in/thiane-milena-870115260/
  
-<img src="https://github-readme-stats.vercel.app/api?username=ThianeMilena&show_icons=true&theme=highcontrast" alt="Estatísticas do Github">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThianeMilena&show_icons=true&theme=highcontrast" alt="Estatísticas do Github">
+</p>
