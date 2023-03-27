@@ -1,4 +1,4 @@
-<h1 align="center"> Olá! Eu sou Thiane Milena 👋🏼 </h1>
+<h1 align="center"> Desenvolvedora Web Front-end🏼 </h1>
 
 📫 Email: milenathiane7@gmail.com
 
