@@ -1,4 +1,4 @@
-<h1 align="center"> Bem-vindo ao meu perfil do GitHub! </h1>
+<h1 align="center"> Bem-vindo(a) ao meu perfil do GitHub! 👋</h1>
 
 <h2> Sobre mim </h2>
 
@@ -24,7 +24,5 @@ Além dos meus estudos, estou trabalhando em alguns projetos pessoais que demons
 <h2> Contato </h2>
 
 - 📫 Caso queira entrar em contato comigo, fique à vontade para enviar uma mensagem por meio do meu e-mail milenathiane7@gmail.com ou me encontrar no LinkedIn https://www.linkedin.com/in/thiane-milena-870115260/.
-
- 
  
 
