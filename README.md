@@ -12,7 +12,8 @@
 
 Aqui estão algumas das habilidades e tecnologias com as quais estou familiarizada:
 
-- Linguagens de programação: Java, Python, JavaScript, HTML, CSS
+- Linguagens de programação: Java, Python, JavaScript
+- Tecnologias de desenvolvimento web: HTML, CSS
 - Banco de dados: MySQL
 - Controle de versão: Git, GitHub
 - Ferramentas de desenvolvimento: Eclipse, Visual Studio Code
