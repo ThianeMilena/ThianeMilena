@@ -12,11 +12,11 @@
 
 Aqui estão algumas das habilidades e tecnologias com as quais estou familiarizada:
 
-- Linguagens de programação: Java, Python, JavaScript
-- Tecnologias de desenvolvimento web: HTML, CSS
-- Banco de dados: MySQL
-- Controle de versão: Git, GitHub
-- Ferramentas de desenvolvimento: Eclipse, Visual Studio Code
+- Linguagens de programação: ![Java](https://img.shields.io/badge/-Java-orange) ![Python](https://img.shields.io/badge/-Python-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- Tecnologias de desenvolvimento web: ![HTML](https://img.shields.io/badge/-HTML-red) ![CSS](https://img.shields.io/badge/-CSS-blue)
+- Banco de dados: ![MySQL](https://img.shields.io/badge/-MySQL-blue)
+- Controle de versão: ![Git](https://img.shields.io/badge/-Git-orange) ![GitHub](https://img.shields.io/badge/-GitHub-black)
+- Ferramentas de desenvolvimento: ![Eclipse](https://img.shields.io/badge/-Eclipse-purple) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue)
 
 <h2> Projetos </h2>
 
@@ -25,5 +25,3 @@ Além dos meus estudos, estou trabalhando em alguns projetos pessoais que demons
 <h2> Contato </h2>
 
 - 📫 Caso queira entrar em contato comigo, fique à vontade para enviar uma mensagem por meio do meu e-mail milenathiane7@gmail.com ou me encontrar no LinkedIn https://www.linkedin.com/in/thiane-milena-870115260/.
- 
-
