@@ -1,4 +1,7 @@
-<h1 align="center"> Bem-vindo(a) ao meu perfil do GitHub! 👋</h1>
+<<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=43DF81&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=43DF81&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo(a)+ao+meu+perfil+do+GitHub!+👋)](https://git.io/typing-svg)
+
 
 <h2> Sobre mim </h2>
 
@@ -9,8 +12,6 @@
 - 💼 Estou aberta a oportunidades de estágio e colaboração em projetos interessantes.
 
 <h2> Habilidades </h2>
-
-Aqui estão algumas das habilidades e tecnologias com as quais estou familiarizada:
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,6 +32,6 @@ Além dos meus estudos, estou trabalhando em alguns projetos pessoais que demons
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milenathiane7@gmail.com)
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThianeMilena&show_icons=true&count_private=true&hide_border=true&title_color=00fbf&icon_color=00fbf&text_color=c9d1d9&bg_color=0d1117" alt="Thiane Milena github stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThianeMilena&layout=compact&hide_border=true&title_color=00fbf&icon_color=00fbf&text_color=c9d1d9&bg_color=0d1117" alt="Thiane Milena top languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThianeMilena&show_icons=true&count_private=true&hide_border=true&title_color=43DF81&icon_color=43DF81&text_color=c9d1d9&bg_color=24292e" alt="Thiane Milena github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThianeMilena&layout=compact&hide_border=true&title_color=43DF81&icon_color=43DF81&text_color=c9d1d9&bg_color=24292e" alt="Thiane Milena top languages" />
 </div>
