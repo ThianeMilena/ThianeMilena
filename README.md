@@ -24,12 +24,10 @@ Além dos meus estudos, estou trabalhando em alguns projetos pessoais que demons
 
 <h2> Contato </h2>
 
-- 📫 Caso queira entrar em contato comigo, fique à vontade para enviar uma mensagem por meio do meu e-mail milenathiane7@gmail.com ou me encontrar no LinkedIn https://www.linkedin.com/in/thiane-milena-870115260/.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/thiane-milena-870115260/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milenathiane7@gmail.com)
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThianeMilena&show_icons=true&count_private=true&hide_border=true&title_color=00fbf&icon_color=00fbf&text_color=c9d1d9&bg_color=0d1117" alt="Thiane Milena github stats" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThianeMilena&layout=compact&hide_border=true&title_color=00fbf&icon_color=00fbf&text_color=c9d1d9&bg_color=0d1117" alt="Thiane Milena top languages" />
 </div>
-<p align="center">
-  <img src="https://github.com/ThianeMilena/ThianeMilena/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
