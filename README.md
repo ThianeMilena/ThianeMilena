@@ -5,10 +5,11 @@
 <h2> Sobre mim </h2>
 
 - 👩‍💻 Sou uma estudante de Análise e Desenvolvimento de Sistemas apaixonada por tecnologia e programação.
-- 🌱 Atualmente estou me aprimorando em várias linguagens de programação, como Java, Python e JavaScript.
-- 🎓 Estou me dedicando a aprender conceitos de desenvolvimento de software, banco de dados e análise de sistemas.
-- 💡 Tenho interesse em projetos que envolvam desenvolvimento web, aplicativos móveis e soluções inovadoras.
-- 💼 Estou aberta a oportunidades de estágio e colaboração em projetos interessantes.
+- 🌱 Atualmente estou me aprimorando em linguagens de programação, como Java, Python e JavaScript.
+- 📊 Estou aprofundando meus conhecimentos em Ciência de Dados, explorando bibliotecas populares como Pandas, NumPy e Matplotlib no Python para análise e visualização de dados.
+- 🧠 Além disso, estou explorando conceitos estatísticos e matemáticos que são essenciais para compreender os fundamentos da Ciência de Dados.
+- 💡 Tenho interesse em projetos que envolvam desenvolvimento web e análise de dados.
+- 👩‍🎓 Etou aberta a oportunidades de estágio que me permitam aplicar e aprimorar minhas habilidades em Ciência de Dados e desenvolvimento web.
 
 <h2> Habilidades </h2>
 
