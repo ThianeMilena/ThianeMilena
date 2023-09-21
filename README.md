@@ -9,7 +9,6 @@
 - 📊 Estou aprofundando meus conhecimentos em Ciência de Dados, explorando bibliotecas populares como Pandas, NumPy e Matplotlib no Python para análise e visualização de dados.
 - 📚 Além disso, estou explorando conceitos estatísticos e matemáticos que são essenciais para compreender os fundamentos da Ciência de Dados.
 - 📈 Estou também desenvolvendo habilidades na criação de modelos de Machine Learning, utilizando bibliotecas como scikit-learn e TensorFlow.
-- 🖥️ Também estou adquirindo experiência em desenvolvimento web, criando sites e aplicações usando tecnologias como HTML, CSS e frameworks como React.
 - 👩‍🎓 Estou aberta a oportunidades de estágio que me permitam aplicar e aprimorar minhas habilidades.
 
 <h2> Habilidades </h2>
