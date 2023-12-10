@@ -1,23 +1,29 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo(a)+ao+meu+perfil+do+GitHub!+👋;Fique+%C3%A0+vontade+para+explorar+meus+projetos.)](https://git.io/typing-svg)
 
 <h2> Sobre mim </h2>
 
-- 👩‍💻 Sou uma estudante de Análise e Desenvolvimento de Sistemas apaixonada por tecnologia e programação.
-- 🌱 Atualmente estou me aprimorando em linguagens de programação, como Java, Python e JavaScript.
-- 📊 Estou aprofundando meus conhecimentos em Ciência de Dados, explorando bibliotecas populares como Pandas, NumPy e Matplotlib no Python para análise e visualização de dados.
-- 📚 Além disso, estou explorando conceitos estatísticos e matemáticos que são essenciais para compreender os fundamentos da Ciência de Dados.
-- 📈 Estou também desenvolvendo habilidades na criação de modelos de Machine Learning, utilizando bibliotecas como scikit-learn e TensorFlow.
-- 👩‍🎓 Estou aberta a oportunidades de estágio que me permitam aplicar e aprimorar minhas habilidades.
+-👩‍💻 Sou uma estudante de Análise e Desenvolvimento de Sistemas apaixonada por tecnologia e programação.<br>
+-🌱 Atualmente, estou focada no estudo de Python e R para aprofundar meu conhecimento em Ciência de Dados.<br>
+-📊 Exploro bibliotecas populares como Pandas, NumPy e Matplotlib em Python para análise e visualização de dados.<br>
+-📚 Além disso, estudo conceitos estatísticos e matemáticos essenciais para compreender os fundamentos da Ciência de Dados.<br>
+-📈 Estou desenvolvendo habilidades na criação de modelos de Machine Learning, utilizando bibliotecas como scikit-learn e TensorFlow.<br>
+-👩‍🎓 Estou aberta a oportunidades de estágio que me permitam aplicar e aprimorar minhas habilidades.
 
 <h2> Habilidades </h2>
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -31,6 +37,20 @@ Além dos meus estudos, estou trabalhando em alguns projetos pessoais que demons
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milenathiane7@gmail.com)
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThianeMilena&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&bg_color=24292e" alt="Thiane Milena github stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThianeMilena&layout=compact&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&bg_color=24292e" alt="Thiane Milena top languages" />
+  <div style="display: flex; flex-direction: row;">
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img width="49%" src="https://streak-stats.demolab.com/?user=ThianeMilena&theme=react&border=007BFF&hide_border=true" alt="Thiane Milena GitHub Streak Stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ThianeMilena&show_icons=true&theme=react&border_color=007BFF&hide_border=true" alt="Thiane Milena GitHub Readme Stats" />
+    </a>
+  </div>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThianeMilena&layout=compact&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=007BFF&text_color=ffffff&icon_color=007BFF&bg_color=20232a&langs_count=8&border_color=007BFF&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Thiane Milena Top Languages" />
+  </a>
 </div>
